@@ -13,7 +13,6 @@ and doesn't do anything until you ask it to.
 To be instantly teleported along a random vector in the overworld,
 simply enter the command:
 
-
 /function fresh_start:begin
 
 
@@ -23,8 +22,7 @@ Don't worry, you've got 15 seconds of invulnerability to help you land on your f
 
 To set your spawn point here, enter:
 
-
-/function fresh_start:accept_location
+/function fresh_start:accept
 
 
 That's it!
