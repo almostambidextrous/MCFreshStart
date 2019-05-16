@@ -43,7 +43,7 @@ First:
 /function fresh_start:config_add	(this is necessary to store the config data)
 
 
-To set the MAXIMUM, enter:
+To set the MAXIMUM teleport distance for each axis, enter:
 
 /scoreboard players set #max config <value>
 
@@ -54,7 +54,7 @@ To set the MINIMUM distance from the starting point:
 
 
 (**note: the minimum distance describes a circle centred on the starting point,
-while the maximum defines a square area. therefore, if #ubound and #minimum are equal,
+while the maximum defines a square area. therefore, if #max and #min are equal,
 the resulting location will be forced into the corners of the square)
 
 
