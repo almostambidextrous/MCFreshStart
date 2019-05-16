@@ -65,7 +65,7 @@ To remove the scoreboard objective, run the command:
 
 Alternatively, the maximum and minimum can be changed at the source in the file:
 
-data\fresh_start\functions\config.mcfunctions  (can be opened with any text editor)
+data\fresh_start\functions\config.mcfunction	(can be opened with any text editor)
 
 
 =================== CREDITS =====================
